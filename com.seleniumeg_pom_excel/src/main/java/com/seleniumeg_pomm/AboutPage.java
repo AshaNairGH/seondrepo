@@ -3,7 +3,7 @@ package com.seleniumeg_pomm;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
+//some change here to check git changes
 public class AboutPage {
 	
 	private WebDriver driver;
